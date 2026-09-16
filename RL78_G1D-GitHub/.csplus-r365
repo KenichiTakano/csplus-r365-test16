@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "workspaceUrl": "https://r-e9fgrz.dev-365.altium.com/",
+  "workspaceId": "grid:global::platform:workspace/399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef",
+  "workspaceAuthId": "399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef",
+  "solutionId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/E7242B3D-E343-4869-A5E7-1B831C1785F0",
+  "softwareProjectId": "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:software:software-project/86D0E464-5D6E-4856-ABFF-E58423F00595",
+  "createdUtc": "2026-09-16T01:10:59.4519763Z",
+  "projectName": "RL78_G1D-GitHub",
+  "repositoryUrl": "https://github.com/KenichiTakano/csplus-r365-test16.git",
+  "parentSolutionIds": [
+    "grid:workspace:399c0b64-cfbc-45b6-bf3c-e2da8dcc79ef:platform:solution/E7242B3D-E343-4869-A5E7-1B831C1785F0"
+  ],
+  "environmentId": "Dev"
+}
