@@ -4,7 +4,7 @@
 ;* SPDX-License-Identifier: BSD-3-Clause
 ;*/
 ;   NOTE       : THIS IS A TYPICAL EXAMPLE.
-
+;test
 $IFNDEF __RENESAS_VERSION__
 __RENESAS_VERSION__	.EQU	0x01000000
 $ENDIF
